@@ -1,0 +1,6 @@
+# Ignore Arduino build artifacts
+build/
+bin/
+*.hex
+*.elf
+config.h
